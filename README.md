@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+CSE+Student;Web+Developer;Flutter+Developer;Problem+Solver&center=true&width=500&height=50">
 </p>
 
